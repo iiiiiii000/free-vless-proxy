@@ -1,5 +1,4 @@
-# profile-title: V I A R • VPN | Free
-# profile-update-interval: 1
+
 vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.112:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🇷🇺 Россия | viarvpn_free.t.me
 vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.61:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🇷🇺 Россия | viarvpn_free.t.me
 vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.64:443?flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 Россия | viarvpn_free.t.me
